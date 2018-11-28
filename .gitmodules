@@ -1,0 +1,8 @@
+[submodule "VexRiscv"]
+	path = VexRiscv
+	url = https://github.com/SpinalHDL/VexRiscv.git
+	branch = master
+[submodule "VexRiscvSocSoftware"]
+	path = VexRiscvSocSoftware
+	url = https://github.com/SpinalHDL/VexRiscvSocSoftware.git
+	branch = master
